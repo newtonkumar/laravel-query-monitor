@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\DB;
 use QueryMonitor\Listeners\QueryListener;
+use Illuminate\Support\ServiceProvider;
 
 class QueryMonitorServiceProvider extends ServiceProvider
 {
