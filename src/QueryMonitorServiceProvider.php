@@ -1,4 +1,5 @@
 <?php
+namespace QueryMonitor;
 
 use Illuminate\Support\Facades\DB;
 use QueryMonitor\Listeners\QueryListener;
